@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Aditya
 
-### 🚀 Full Stack Software Developer | Backend Enthusiast | Open Source Contributor
+### 🚀 Full Stack Software Developer | Backend Enthusiast
 
 ```
 Passionate about crafting scalable and modular software solutions. I love working on backend technologies,
@@ -22,7 +22,12 @@ containerized applications, and building reusable systems that streamline develo
   Mobile: 9643652605
   ```
   
+⚡ Fun fact:
 
+```
+I believe ‘Hello, World!’ is the universal greeting. 🌍👋
+Dark mode isn’t just a preference—it’s a lifestyle. 🌑💻
+```
 
   
 <!--
