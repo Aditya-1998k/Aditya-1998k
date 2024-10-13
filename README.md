@@ -4,9 +4,6 @@
   🚀 Software Engineer | Backend Enthusiast | Open Source Contributor
 </h3>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/5141132/87228146-5b63c080-c39f-11ea-8f77-3cfa15a6e500.gif" width="200">
-</p>
 
 ---
 
@@ -24,11 +21,9 @@ containerized applications, and building reusable systems that streamline develo
 3. **Data Analysis & Machine Learning:** Exploring data trends with Python and building analytical tools.  
 4. **DevOps & Automation:** Automating workflows using shell scripts, cron jobs, and CI/CD pipelines.  
 5. **Custom Logging & Caching Systems:** Building custom log handlers and Memcache-like modules, such as CacheCraft.
-
 ---
 
 ### 📫 How to Reach Me  
-
 <p align="center">
   <a href="https://www.linkedin.com/in/aditya-gupta1998/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Gupta-blue?logo=linkedin" alt="LinkedIn">
@@ -44,8 +39,6 @@ containerized applications, and building reusable systems that streamline develo
 ---
 
 ### ⚡ Fun Fact  
----
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=450&lines=Keep+learning%2C+keep+building!;Embrace+the+bugs!+🐛" alt="Typing animation">
 </p>
