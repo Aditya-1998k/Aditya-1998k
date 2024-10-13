@@ -16,11 +16,11 @@ containerized applications, and building reusable systems that streamline develo
 
 ### 🛠️ Skills and Expertise
 
-1. **Backend Development:** Experienced in Flask, FastAPI, and SQLAlchemy for building robust and modular APIs.  
-2. **Frontend with Modern Frameworks:** Working on Vanilla JavaScript and React.js projects.  
+1. **Backend Development:** Experienced in **Flask**, **FastAPI**, and **SQLAlchemy** for building robust and modular APIs.  
+2. **Frontend with Modern Frameworks:** Working on Vanilla **JavaScript** and React.js projects.  
 3. **Data Analysis & Machine Learning:** Exploring data trends with Python and building analytical tools.  
-4. **DevOps & Automation:** Automating workflows using shell scripts, cron jobs, and CI/CD pipelines.  
-5. **Custom Logging & Caching Systems:** Building custom log handlers and Memcache-like modules, such as CacheCraft.
+4. **DevOps & Automation:** Automating workflows using **shell scripts**, **cron jobs**, and CI/CD pipelines.  
+5. **Custom Logging & Caching Systems:** Building custom log handlers and Memcache-like modules, such as **CacheCraft**.
 ---
 
 ### 📫 How to Reach Me  
