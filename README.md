@@ -37,9 +37,9 @@ Passionate about crafting **scalable** and **modular software solutions**. I lov
 
 ---
 ### ⚡ Fun Fact  
-<p align="center" style="margin-top: -10px;">
+<p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=400&lines=Keep+learning%2C+keep+building!;Embrace+the+bugs!+🐛" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=450&lines=Code%2C+Test%2C+Break%2C+Repeat!;Coffee+%2B+Code+%3D+Productivity!+☕;First+I+write+the+bug...+then+I+fix+it+🐛" 
     alt="Typing animation"
   >
 </p>
