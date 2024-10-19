@@ -18,7 +18,7 @@ Passionate about crafting **scalable** and **modular software solutions**. I lov
 1. **Backend Development:** Experienced in Python, **Flask**, **FastAPI**, and **SQLAlchemy** for building robust and modular APIs.  
 2. **Frontend with Modern Frameworks:** Working on Vanilla **JavaScript** and React.js projects.  
 3. **Data Analysis & Machine Learning:** Exploring data trends with **Python** and building analytical tools.  
-4. **Automation Tools:** Automating workflows using **shell scripts**, **cron jobs**, and CI/CD pipelines.  
+4. **Automation Tools:** Automating workflows using **shell scripts** & **cron jobs**. 
 5. **Custom Logging & Caching Systems:** Building custom **log** handlers and Memcache-like modules, such as **CacheCraft**.
 ---
 
