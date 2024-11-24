@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Aditya</h1>
 
 <h3 align="center">
-  🚀 Full Stack Developer | Backend Enthusiast | Open Source Contributor (CacheCraft)
+  🚀 Full Stack Developer | Backend Enthusiast
 </h3>
 
 
@@ -20,7 +20,8 @@ Passionate about crafting **scalable** and **modular software solutions**. I lov
 3. **Data Analysis & Machine Learning:** Exploring data trends with **Python** and building analytical tools.  
 4. **Automation Tools:** Automating workflows using **shell scripts** & **cron jobs**. 
 5. **Custom Logging & Caching Systems:** Building custom **log** handlers and Memcache-like modules, such as **CacheCraft**.
-6. **Machine Learning with Python:** Preprocessing Data, Training and Testing the Model
+6. **Custom Pep8 Checker:** Building a custom pep8 checker **CodeLint**
+7. **Machine Learning with Python:** Preprocessing Data, Training and Testing the Model
 ---
 
 ### 📫 How to Reach Me  
