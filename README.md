@@ -20,6 +20,7 @@ Passionate about crafting **scalable** and **modular software solutions**. I lov
 3. **Data Analysis & Machine Learning:** Exploring data trends with **Python** and building analytical tools.  
 4. **Automation Tools:** Automating workflows using **shell scripts** & **cron jobs**. 
 5. **Custom Logging & Caching Systems:** Building custom **log** handlers and Memcache-like modules, such as **CacheCraft**.
+6. **Machine Learning with Python:** Preprocessing Data, Training and Testing the Model
 ---
 
 ### 📫 How to Reach Me  
