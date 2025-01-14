@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Aditya</h1>
 
 <h3 align="center">
-  🚀 Full Stack Developer | Backend Enthusiast | ML Developer
+  🚀 Software Developer
 </h3>
 
 
@@ -13,16 +13,14 @@ Passionate about crafting **scalable** and **modular software solutions**. I lov
 
 ---
 
-### 🛠️ Skills and Expertise
+### 🛠️ Skills
 
-1. **Backend Development:** Experienced in Python, **Flask**, **FastAPI**, and **SQLAlchemy** for building robust and modular APIs.
-2. **Machine Learning with Python:** Preprocessing Data, Training and Testing the Model 
-3. **Frontend with Modern Frameworks:** Working on Vanilla **JavaScript** and React.js projects.  
-4. **Data Analysis & Machine Learning:** Exploring data trends with **Python** and building analytical tools.  
-5. **Automation Tools:** Automating workflows using **shell scripts** & **cron jobs**. 
-6. **Custom Logging & Caching Systems:** Building custom **log** handlers and Memcache-like modules, such as **CacheCraft**.
-7. **Custom Pep8 Checker:** Building a custom pep8 checker **CodeLint**
-
+1. **Backend Development:** Experienced in Python, Flask, and SQLAlchemy for building robust and modular APIs.
+2. **Machine Learning with Python:** Preprocessing Data, Training and Testing the Model  
+3. **Database:** Experienced in writing optimized and efficient query in SqlServer.
+4. **Cloud Platform:** AWS (IAM, EC2, S3 & RDS).
+5. **CI/CD:** Automate manual process using jenkins for build and deployment.
+6. **Tools:** RabbitMq, Docker, Ansible and Kubernetes.
 ---
 
 ### 📫 How to Reach Me  
