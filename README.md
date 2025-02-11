@@ -23,6 +23,8 @@ Passionate about crafting **scalable** and **modular software solutions**. I lov
 6. **Tools:** RabbitMq, Docker, Ansible and Kubernetes.
 ---
 
+[![Manish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aditya-1998k&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ### 📫 How to Reach Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/aditya-gupta1998/" target="_blank">
