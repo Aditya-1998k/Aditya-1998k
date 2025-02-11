@@ -15,12 +15,12 @@ Passionate about crafting **scalable** and **modular software solutions**. I lov
 
 ### 🛠️ Skills
 
-1. **Backend Development:** Experienced in Python, Flask, and SQLAlchemy for building robust and modular APIs.
-2. **Machine Learning with Python:** Preprocessing Data, Training and Testing the Model  
-3. **Database:** Experienced in writing optimized and efficient query in SqlServer.
-4. **Cloud Platform:** AWS (IAM, EC2, S3 & RDS).
-5. **CI/CD:** Automate manual process using jenkins for build and deployment.
-6. **Tools:** RabbitMq, Docker, Ansible and Kubernetes.
+- **Language:** **✨ Python**, **🟡 JavaScript**, **🟣 SQL**  
+- **Framework/Library:** **🚀 Flask**, **🌐 Node.js**, **⚡ FastAPI**  
+- **Databases:** **📀 SQL Server**, **🍃 MongoDB**  
+- **DevOps Tools:** **🐳 Docker**, **☸️ Kubernetes**, **🛠️ Jenkins**, **☁️ AWS**, **📦 Ansible**  
+- **Machine Learning:** **📊 Data Preprocessing**, **🤖 Supervised Learning**, **🔍 Unsupervised Learning**, **🎯 Reinforcement Learning**  
+
 ---
 
 [![Manish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aditya-1998k&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
