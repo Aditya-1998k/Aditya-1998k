@@ -15,10 +15,10 @@ Passionate about crafting **scalable** and **modular software solutions**. I lov
 
 ### 🛠️ Skills
 
-- **Language:** **✨ Python**, **🟡 JavaScript**, **🟣 SQL**  
-- **Framework/Library:** **🚀 Flask**, **🌐 Node.js**, **⚡ FastAPI**  
+- **Language:** **✨ Python**, **🟡 JavaScript**, **🟣 SQL**, **🟡 Shell Scripting**  
+- **Framework/Library:** **🚀 Flask**, **🌐 Node.js**, **⚡ ReactJS**  
 - **Databases:** **📀 SQL Server**, **🍃 MongoDB**  
-- **DevOps Tools:** **🐳 Docker**, **☸️ Kubernetes**, **🛠️ Jenkins**, **☁️ AWS**, **📦 Ansible**  
+- **DevOps Tools:** **🐳 Docker**, **🛠️ Jenkins**, **☁️ AWS**, **📦 Ansible**  
 - **Machine Learning:** **📊 Data Preprocessing**, **🤖 Supervised Learning**, **🔍 Unsupervised Learning**, **🎯 Reinforcement Learning**  
 
 ---
