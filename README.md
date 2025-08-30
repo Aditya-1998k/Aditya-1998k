@@ -11,6 +11,8 @@ My focus is on crafting **production-ready solutions** that are efficient, reusa
 💡 I thrive at the intersection of **Backend Engineering, DevOps, and Artificial Intelligence**.  
 Currently exploring **LLMs (Large Language Models)** and their applications in real-world products.
 
+📄 Learn more about me here: [Page](https://aditya-1998k.github.io/Resume/) 
+
 ---
 
 ### 🛠️ Tech Stack
