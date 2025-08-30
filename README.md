@@ -1,45 +1,59 @@
-<h1 align="center">👋 Hi, I'm Aditya</h1>
+<h1 align="center">👋 Hey, I'm Aditya Gupta</h1>
 
-<h3 align="center">
-  🚀 Full Stack Software Web Developer
-</h3>
-
+<h3 align="center">🚀 Full Stack Software Developer | Backend Specialist | ML & LLM Enthusiast</h3>
 
 ---
 
 ### 👨‍💻 About Me
+I’m a passionate **Software Developer** who loves building **scalable systems**, **modular backend architectures**, and **containerized applications**.  
+My focus is on crafting **production-ready solutions** that are efficient, reusable, and easy to maintain.  
 
-Passionate about crafting **scalable** and **modular software solutions**. I love working on backend technologies, containerized applications, and building **reusable** systems that streamline development workflows.
-
----
-
-### 🛠️ Skills
-
-- **Language:** **✨ Python**, **🟡 JavaScript**, **🟣 SQL**, **🟡 Shell Scripting**, **🟣 HTML**, **🟡 CSS**
-- **Framework/Library:** **🚀 Flask**, **🌐 Node.js**, **⚡ ReactJS**
-- **Databases:** **📀 SQL Server**, **🍃 MongoDB**  
-- **DevOps Tools:** **🐳 Docker**, **🛠️ Jenkins**, **☁️ AWS**, **📦 Ansible**  
-- **Machine Learning:** **📊 Data Preprocessing**, **🤖 Supervised Learning**, **🔍 Unsupervised Learning**, **🎯 Reinforcement Learning**  
+💡 I thrive at the intersection of **Backend Engineering, DevOps, and Artificial Intelligence**.  
+Currently exploring **LLMs (Large Language Models)** and their applications in real-world products.
 
 ---
 
-[![Manish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aditya-1998k&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 🛠️ Tech Stack
 
-### 📫 How to Reach Me  
+#### 💻 Programming Languages  
+- Python 🐍 | JavaScript ⚡ | SQL 📀 | Shell Scripting 💡 | HTML & CSS 🌐  
+
+#### 🏗️ Frameworks & Libraries  
+- Flask 🚀 | Node.js 🌐 | React.js ⚛️ | Pandas 🐼 | NumPy 🔢 | Transformers 🤗  
+
+#### 🗄️ Databases  
+- SQL Server 🟣 | MongoDB 🍃  
+
+#### ⚙️ DevOps & Cloud  
+- Docker 🐳 | Jenkins 🛠️ | AWS ☁️ | Ansible 📦  
+
+#### 🤖 Machine Learning & AI  
+- Data Preprocessing | Supervised 🔍 | Unsupervised 📊 | Reinforcement Learning 🎯  
+- **LLMs & NLP**: Hugging Face 🤗 | BERT | GPT | Fine-tuning | Prompt Engineering  
+
+---
+
+### 📈 GitHub Activity
+[![Aditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aditya-1998k&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 🌐 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/aditya-gupta1998/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Gupta-blue?logo=linkedin" alt="LinkedIn">
   </a>
   <a href="mailto:aditya98gupta@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-aditya98gupta%40gmail.com-red?logo=gmail" alt="Gmail">
+    <img src="https://img.shields.io/badge/Email-aditya98gupta%40gmail.com-red?logo=gmail" alt="Gmail">
   </a>
   <a href="tel:+919643652605" target="_blank">
-    <img src="https://img.shields.io/badge/Call%20Me-9643652605-brightgreen?logo=phone" alt="Phone">
+    <img src="https://img.shields.io/badge/Call%20Me-+91%209643652605-brightgreen?logo=phone" alt="Phone">
   </a>
 </p>
 
 ---
+
 ### ⚡ Fun Fact  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F58C&center=true&vCenter=true&width=450&lines=Code%2C+Test%2C+Break%2C+Repeat!;Coffee+%2B+Code+%3D+Productivity!+☕;First+I+write+the+bug...+then+I+fix+it+🐛" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F58C&center=true&vCenter=true&width=500&lines=Code+%7C+Test+%7C+Break+%7C+Repeat+%F0%9F%92%BB;Coffee+%2B+Code+%3D+Productivity+%E2%98%95;First+I+write+the+bug...+then+I+fix+it+%F0%9F%90%9B" alt="Typing SVG" />
 </p>
