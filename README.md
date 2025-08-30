@@ -52,8 +52,9 @@ Currently exploring **LLMs (Large Language Models)** and their applications in r
 </p>
 
 ---
-
+ 
 ### ⚡ Fun Fact  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F58C&center=true&vCenter=true&width=500&lines=Code+%7C+Test+%7C+Break+%7C+Repeat+%F0%9F%92%BB;Coffee+%2B+Code+%3D+Productivity+%E2%98%95;First+I+write+the+bug...+then+I+fix+it+%F0%9F%90%9B" alt="Typing SVG" />
+  🤖 My brain runs on Python, <br>
+  but sometimes I wish it had a garbage collector too 🧠♻️
 </p>
