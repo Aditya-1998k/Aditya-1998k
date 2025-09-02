@@ -32,12 +32,7 @@ Currently, I’m exploring **Large Language Models (LLMs)** and their **real-wor
 - 📝 [**Gratitude App**](https://github.com/Aditya-1998k/Gratitude-App) – Full-stack app with React (frontend) + Node/Express (backend)  
 - 📋 [**Task Tracker**](https://github.com/Aditya-1998k/Task-Tracker) – Task management REST API with authentication  
 - 📚 [**NewsFeed**](https://github.com/Aditya-1998k/NewsFeed) – News aggregation app with external API integration  
-- 📇 [**Contact Manager**](https://github.com/Aditya-1998k/Contact-Manager) – Contact management backend with CRUD APIs  
-
----
-
-### 📈 GitHub Activity  
-[![Aditya's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aditya-1998k&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+- 📇 [**Contact Manager**](https://github.com/Aditya-1998k/Contact-Manager) – Contact management backend with CRUD APIs   
 
 ---
 
