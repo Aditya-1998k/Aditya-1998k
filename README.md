@@ -13,8 +13,6 @@ I specialize in crafting **production-ready solutions** that are **efficient**, 
 💡 My expertise lies at the intersection of **Backend Engineering, DevOps, and Artificial Intelligence**.  
 Currently, I’m exploring **Large Language Models (LLMs)** and their **real-world applications** to create smarter and more adaptive systems.  
 
-📄 Learn more about me here: [Page](https://aditya-1998k.github.io/Resume/)  
-
 ---
 
 ### 🛠️ Skills  
