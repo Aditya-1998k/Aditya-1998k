@@ -6,30 +6,28 @@
 
 ---
 
-### 👨‍💻 About Me  
-I’m a **Software Developer** with hands-on experience in building **scalable systems**, **modular backend architectures**, and **containerized applications**.  
-I specialize in crafting **production-ready solutions** that are **efficient**, **secure**, and **easy to maintain**.  
+I’m a **Software Developer** with hands-on experience in building **scalable systems**, **modular backend architectures**, **distributed systems** and **containerized applications**. I specialize in crafting **production-ready solutions** that are **efficient**, **secure**, and **easy to maintain**.
 
-💡 My expertise lies at the intersection of **Backend Engineering, DevOps, and Artificial Intelligence**.  
+💡 My expertise lies at the intersection of **Backend Engineering, FrontEnd, and Machine Learning**.  
 Currently, I’m exploring **Large Language Models (LLMs)** and their **real-world applications** to create smarter and more adaptive systems.  
 
 ---
 
 ### 🛠️ Skills  
 
-- **Languages:** Python 🐍 | JavaScript ⚡ | SQL | Shell Scripting | HTML | CSS  
-- **Frameworks/Libraries:** Flask 🚀 | Node.js 🌐 | Express | React ⚡ | Pandas | NumPy  
-- **Databases:** SQL Server 📀 | MongoDB 🍃  
-- **DevOps & Cloud:** Docker 🐳 | Jenkins 🛠️ | AWS ☁️ | Ansible 📦  
-- **Machine Learning & AI:** Data Preprocessing 📊 | Supervised 🤖 | Unsupervised 🔍 | Reinforcement 🎯 | LLMs 🔮  
+- **Languages:** Python 🐍 | JavaScript ⚡  
+- **Frameworks/Libraries:** Flask 🚀 | FastAPI ⚡ | React ⚡
+- **Databases:** MS SQL Server 📀 | MongoDB 🍃  | Memcache ⚡
+- **DevOps & Cloud:** Docker 🐳 | Jenkins 🛠️ | AWS(EC2, IAM) ☁️ | Ansible 📦 
+- **Machine Learning:** Data Preprocessing 📊 | Machine Learning with python 🔍
+- **Distributed System Tools:** RabbitMQ 🐇 | Memcached 💾  
 
 ---
 
 ### 📌 Featured Projects  
 
-- 📝 [**Gratitude App**](https://github.com/Aditya-1998k/Gratitude-App) – Full-stack app with React (frontend) + Node/Express (backend)  
+- 📝 [**Better Life Index**](https://github.com/Aditya-1998k/Better-Life-Index) – A Machine Learning Model with Linear Regression & K-Means algo  
 - 📋 [**Task Tracker**](https://github.com/Aditya-1998k/Task-Tracker) – Task management REST API with authentication  
-- 📚 [**NewsFeed**](https://github.com/Aditya-1998k/NewsFeed) – News aggregation app with external API integration  
 - 📇 [**Contact Manager**](https://github.com/Aditya-1998k/Contact-Manager) – Contact management backend with CRUD APIs   
 
 ---
