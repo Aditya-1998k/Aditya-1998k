@@ -1,15 +1,15 @@
-<h1 align="center">👋 Hi, I'm Aditya Gupta</h1>  
+<h1 align="center">Hi, I'm Aditya</h1>  
 
 <h3 align="center">
-  🚀 Software Developer | Backend • DevOps • AI/ML
+  🚀 Software Developer (Backend | Full Stack | Machine Learning)
 </h3>  
 
 ---
 
 I’m a **Software Developer** with hands-on experience in building **scalable systems**, **modular backend architectures**, **distributed systems** and **containerized applications**. I specialize in crafting **production-ready solutions** that are **efficient**, **secure**, and **easy to maintain**.
 
-💡 My expertise lies at the intersection of **Backend Engineering, FrontEnd, and Machine Learning**.  
-Currently, I’m exploring **Large Language Models (LLMs)** and their **real-world applications** to create smarter and more adaptive systems.  
+My expertise lies at the intersection of **Backend Engineering, FrontEnd, and Machine Learning**.  
+Currently, I’m exploring **Large Language Models (LLMs)** and their **real-world applications** to create smarter and more adaptive systems.
 
 ---
 
