@@ -28,7 +28,7 @@ Currently, I’m exploring **Large Language Models (LLMs)** and their **real-wor
 
 - 📝 [**Better Life Index**](https://github.com/Aditya-1998k/Better-Life-Index) – A Machine Learning Model with Linear Regression & K-Means algo  
 - 📋 [**Task Tracker**](https://github.com/Aditya-1998k/Task-Tracker) – Task management REST API with authentication  
-- 📇 [**Contact Manager**](https://github.com/Aditya-1998k/Contact-Manager) – Contact management backend with CRUD APIs   
+- 📇 [**SOA Agent**](https://github.com/Aditya-1998k/SOA-Agent) – SOA agent with multiple services   
 
 ---
 
