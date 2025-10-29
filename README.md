@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Aditya</h1>  
 
 <h3 align="center">
-  🚀 Software Developer (Backend | Full Stack | Machine Learning)
+  🚀 Software Developer (Full Stack | Machine Learning)
 </h3>  
 
 ---
