@@ -6,7 +6,7 @@
 
 ---
 
-I’m a **Software Developer** with hands-on experience in building **scalable systems**, **modular backend architectures**, **distributed systems** and **containerized applications**. I specialize in crafting **production-ready solutions** that are **efficient**, **secure**, and **easy to maintain**.
+I’m a **Software Developer** with hands-on experience in building **scalable systems**, **modular full stack architectures**, **distributed systems** and **containerized applications**. I specialize in crafting **production-ready solutions** that are **efficient**, **secure**, and **easy to maintain**.
 
 My expertise lies at the intersection of **Backend Engineering, FrontEnd, and Machine Learning**.  
 Currently, I’m exploring **Large Language Models (LLMs)** and their **real-world applications** to create smarter and more adaptive systems.
@@ -16,19 +16,22 @@ Currently, I’m exploring **Large Language Models (LLMs)** and their **real-wor
 ### 🛠️ Skills  
 
 - **Languages:** Python 🐍 | JavaScript ⚡  
-- **Frameworks/Libraries:** Flask 🚀 | FastAPI ⚡ | React ⚡
-- **Databases:** MS SQL Server 📀 | MongoDB 🍃  | Memcache ⚡
+- **Frameworks/Libraries:** Flask 🚀 | FastAPI ⚡ | React ⚡ | Django ⚡
+- **Databases:** MS SQL Server 📀 | MongoDB 🍃  | Memcache ⚡ | Redis
 - **DevOps & Cloud:** Docker 🐳 | Jenkins 🛠️ | AWS(EC2, IAM) ☁️ | Ansible 📦 
 - **Machine Learning:** Data Preprocessing 📊 | Machine Learning with python 🔍
-- **Distributed System Tools:** RabbitMQ 🐇 | Memcached 💾  
+- **Distributed System Tools:** RabbitMQ 🐇 | Memcached 💾
+- **Desgin:** System Design 🛠️ | Data Structure and Algorithm 💾
 
 ---
 
 ### 📌 Featured Projects  
 
 - 📝 [**Better Life Index**](https://github.com/Aditya-1998k/Better-Life-Index) – A Machine Learning Model with Linear Regression & K-Means algo  
-- 📋 [**Task Tracker**](https://github.com/Aditya-1998k/Task-Tracker) – Task management REST API with authentication  
-- 📇 [**Agent**](https://github.com/Aditya-1998k/Agent) – Agent with multiple services   
+- 📋 [**Task Tracker**](https://github.com/Aditya-1998k/Task-Tracker) – Task management REST API with authentication
+- 📋 [**Task Tracker UI**](https://github.com/Aditya-1998k/Task-Tracker-UI) – A clean User Interface for Task management with React and TailwindCSS  
+- 📇 [**Agent**](https://github.com/Aditya-1998k/Agent) – Agent with multiple services
+
 
 ---
 
