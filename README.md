@@ -30,7 +30,7 @@ Currently, I’m exploring **Large Language Models (LLMs)** and their **real-wor
 - 📝 [**Movie Store**](https://github.com/Aditya-1998k/Movie-Store) – **Python Django** based full stack development with MVT architecture.
 - 📝 [**Better Life Index**](https://github.com/Aditya-1998k/Better-Life-Index) – A machine Learning model integrated with **python FastAPI** 
 - 📋 [**Task Tracker**](https://github.com/Aditya-1998k/Task-Tracker) – Task management REST API with authentication and role based authorization with **python Flask**
-- 📋 [**Task Tracker UI**](https://github.com/Aditya-1998k/Task-Tracker-UI) – User Interface with ReactJS (Javascript frontend library)
+- 📋 [**Task Tracker UI**](https://github.com/Aditya-1998k/Task-Tracker-UI) – User Interface with **ReactJS (Javascript frontend library)**
 - 📇 [**Agent**](https://github.com/Aditya-1998k/Agent) – Python based multi-service agent integrated with Rabbitmq
 
 
