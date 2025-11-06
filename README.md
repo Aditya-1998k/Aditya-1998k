@@ -17,10 +17,10 @@ Currently, I’m exploring **Large Language Models (LLMs)** and their **real-wor
 
 - **Languages:** Python 🐍 | JavaScript ⚡  
 - **Frameworks/Libraries:** Flask 🚀 | FastAPI ⚡ | Django ⚡ | React ⚡ 
-- **Databases:** MS SQL Server 📀 | MongoDB 🍃  | Memcache ⚡ | Redis
-- **DevOps & Cloud:** Docker 🐳 | Jenkins 🛠️ | AWS(EC2, IAM) ☁️ 
+- **Databases:** MS SQL Server 📀 | MongoDB 🍃  | Memcache ⚡
+- **DevOps & Cloud:** Docker 🐳 | Jenkins 🛠️ | AWS(EC2, IAM) ☁️
 - **Machine Learning:** Data Preprocessing 📊 | Machine Learning with python 🔍
-- **Distributed System Tools:** RabbitMQ 🐇 | Memcached 💾 | Redis
+- **Distributed System Tools:** RabbitMQ 🐇 | Memcached 💾
 - **Desgin:** System Design 🛠️ | Data Structure and Algorithm 💾
 
 ---
