@@ -9,7 +9,6 @@
 I’m a **Software Developer** with hands-on experience in building **scalable systems**, **modular full stack architectures**, **distributed systems** and **containerized applications**. I specialize in crafting **production-ready solutions** that are **efficient**, **secure**, and **easy to maintain**.
 
 My expertise lies at the intersection of **Backend Engineering, FrontEnd, and Machine Learning**.  
-Currently, I’m exploring **Large Language Models (LLMs)** and their **real-world applications** to create smarter and more adaptive systems.
 
 ---
 
