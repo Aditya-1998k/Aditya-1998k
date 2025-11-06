@@ -16,21 +16,22 @@ Currently, I’m exploring **Large Language Models (LLMs)** and their **real-wor
 ### 🛠️ Skills  
 
 - **Languages:** Python 🐍 | JavaScript ⚡  
-- **Frameworks/Libraries:** Flask 🚀 | FastAPI ⚡ | React ⚡ | Django ⚡
+- **Frameworks/Libraries:** Flask 🚀 | FastAPI ⚡ | Django ⚡ | React ⚡ 
 - **Databases:** MS SQL Server 📀 | MongoDB 🍃  | Memcache ⚡ | Redis
-- **DevOps & Cloud:** Docker 🐳 | Jenkins 🛠️ | AWS(EC2, IAM) ☁️ | Ansible 📦 
+- **DevOps & Cloud:** Docker 🐳 | Jenkins 🛠️ | AWS(EC2, IAM) ☁️ 
 - **Machine Learning:** Data Preprocessing 📊 | Machine Learning with python 🔍
-- **Distributed System Tools:** RabbitMQ 🐇 | Memcached 💾
+- **Distributed System Tools:** RabbitMQ 🐇 | Memcached 💾 | Redis
 - **Desgin:** System Design 🛠️ | Data Structure and Algorithm 💾
 
 ---
 
 ### 📌 Featured Projects  
 
-- 📝 [**Better Life Index**](https://github.com/Aditya-1998k/Better-Life-Index) – A Machine Learning Model with Linear Regression & K-Means algo  
-- 📋 [**Task Tracker**](https://github.com/Aditya-1998k/Task-Tracker) – Task management REST API with authentication
-- 📋 [**Task Tracker UI**](https://github.com/Aditya-1998k/Task-Tracker-UI) – A clean User Interface for Task management with React and TailwindCSS  
-- 📇 [**Agent**](https://github.com/Aditya-1998k/Agent) – Agent with multiple services
+- 📝 [**Movie Store**](https://github.com/Aditya-1998k/Movie-Store) – **Python Django** based full stack development with MVT architecture.
+- 📝 [**Better Life Index**](https://github.com/Aditya-1998k/Better-Life-Index) – A machine Learning model integrated with **python FastAPI** 
+- 📋 [**Task Tracker**](https://github.com/Aditya-1998k/Task-Tracker) – Task management REST API with authentication and role based authorization with **python Flask**
+- 📋 [**Task Tracker UI**](https://github.com/Aditya-1998k/Task-Tracker-UI) – User Interface with ReactJS (Javascript frontend library)
+- 📇 [**Agent**](https://github.com/Aditya-1998k/Agent) – Python based multi-service agent integrated with Rabbitmq
 
 
 ---
