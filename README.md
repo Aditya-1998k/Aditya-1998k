@@ -10,7 +10,7 @@ I’m a **Software Developer** with hands-on experience in building **scalable s
 
 My expertise lies at the intersection of **Backend Engineering, FrontEnd, and Machine Learning**.  
 
-Visit my portfolio for more details: [Click Here](https://aditya-1998k.github.io/)
+Visit my portfolio: [Click Here](https://aditya-1998k.github.io/)
 
 ---
 
