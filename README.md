@@ -26,10 +26,9 @@ Visit my portfolio: [Click Here](https://aditya-1998k.github.io/)
 
 ---
 
-### 📌 Featured Projects  
-
+### 📌 Featured Projects
+- 📝 [**SwiftShop**](https://github.com/Aditya-1998k/SwiftSho) – **Python Django** based full stack development with MVT architecture.
 - 📝 [**Movie Store**](https://github.com/Aditya-1998k/Movie-Store) – **Python Django** based full stack development with MVT architecture.
-- 📝 [**Better Life Index**](https://github.com/Aditya-1998k/Better-Life-Index) – A machine Learning model integrated with **python FastAPI** 
 - 📋 [**Task Tracker**](https://github.com/Aditya-1998k/Task-Tracker) – Task management REST API with authentication and role based authorization with **python Flask**
 - 📋 [**Task Tracker UI**](https://github.com/Aditya-1998k/Task-Tracker-UI) – User Interface with **ReactJS (Javascript frontend library)**
 - 📇 [**Agent**](https://github.com/Aditya-1998k/Agent) – Python based multi-service agent integrated with Rabbitmq
