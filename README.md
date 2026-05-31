@@ -1,52 +1,60 @@
-<h1 align="center">Hi, I'm Aditya</h1>  
+<h1 align="center">Hi, I'm Aditya Gupta</h1>
 
 <h3 align="center">
-  🚀 Senior Software Developer
-</h3>  
+🚀 Senior Software Developer @ John Deere
+</h3>
 
 ---
 
-I’m a **Software Developer** with hands-on experience in building **scalable systems**, **modular full stack architectures**, **distributed systems** and **containerized applications**. I specialize in crafting **production-ready solutions** that are **efficient**, **secure**, and **easy to maintain**.
+Backend Engineer with experience building scalable APIs, event-driven systems, and cloud-native applications. I specialize in designing reliable backend services, distributed systems, data processing pipelines, and production-ready architectures.
 
-My expertise lies at the intersection of **Backend Engineering, FrontEnd, and Machine Learning**.  
+Currently at John Deere, I develop customer success solutions by building FastAPI services, processing enterprise-scale data, designing AWS-based event-driven workflows, and delivering secure, observable, and highly available systems.
 
-Visit my portfolio: [Click Here](https://aditya-1998k.github.io/)
+🌐 Portfolio: https://aditya-1998k.github.io/
 
 ---
 
-### 🛠️ Skills  
+### 🛠️ Core Skills
 
-- **Languages:** Python 🐍 | JavaScript ⚡  
-- **Frameworks/Libraries:** Flask 🚀 | FastAPI ⚡ | Django ⚡ | React ⚡ 
-- **Databases:** MS SQL Server 📀 | MongoDB 🍃  | Memcache ⚡
-- **DevOps & Cloud:** Docker 🐳 | Jenkins 🛠️ | AWS(EC2, IAM) ☁️
-- **Machine Learning:** Data Preprocessing 📊 | Machine Learning with python 🔍
-- **Distributed System Tools:** RabbitMQ 🐇 | Memcached 💾
-- **Desgin:** System Design 🛠️ | Data Structure and Algorithm 💾
+- **Languages:** Python | SQL | JavaScript
+- **Backend:** FastAPI | Flask | SQLAlchemy | REST APIs
+- **Databases:** PostgreSQL | SQL Server | MongoDB | Redis
+- **Cloud:** AWS (Lambda, Step Functions, ECS, Fargate, IAM)
+- **DevOps:** Docker | Kubernetes | Terraform | GitHub Actions
+- **Architecture:** System Design | Event-Driven Architecture | Distributed Systems
+- **Data Engineering:** ETL Pipelines | Data Transformation | Data Analysis
+- **Messaging:** RabbitMQ
+
+---
+
+### 💼 What I Work On
+
+- Designing and developing scalable backend services
+- Building event-driven architectures on AWS
+- Developing enterprise data ingestion and transformation pipelines
+- Database design, optimization, and performance tuning
+- Infrastructure automation and CI/CD implementation
+- System design and distributed system patterns
 
 ---
 
 ### 📌 Featured Projects
-- 📝 [**SwiftShop**](https://github.com/Aditya-1998k/SwiftShop) – **Python Django** based full stack development with MVT architecture.
-- 📝 [**Movie Store**](https://github.com/Aditya-1998k/Movie-Store) – **Python Django** based full stack development with MVT architecture.
-- 📋 [**Task Tracker**](https://github.com/Aditya-1998k/Task-Tracker) – Task management REST API with authentication and role based authorization with **python Flask**
-- 📋 [**Task Tracker UI**](https://github.com/Aditya-1998k/Task-Tracker-UI) – User Interface with **ReactJS (Javascript frontend library)**
-- 📇 [**Agent**](https://github.com/Aditya-1998k/Agent) – Python based multi-service agent integrated with Rabbitmq
 
-
----
-
-### 📫 Connect with Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/aditya-gupta1998/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Gupta-blue?logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:aditya98gupta@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-aditya98gupta%40gmail.com-red?logo=gmail" alt="Gmail">
-  </a>
-</p>  
+- 📝 SwiftShop – Full-stack e-commerce platform built with Django.
+- 🎬 Movie Store – Django-based movie management application.
+- 📋 Task Tracker API – REST API with authentication and role-based access control.
+- ⚛️ Task Tracker UI – React frontend for task management.
 
 ---
 
-### ⚡ Fun Fact  
-🤖 My brain runs on Python, but sometimes I wish it had a **garbage collector** too 🧠♻️  
+### 📫 Connect With Me
+
+- LinkedIn: linkedin.com/in/aditya-gupta1998
+- Portfolio: aditya-1998k.github.io
+- Email: aditya98gupta@gmail.com
+
+---
+
+### ⚡ Fun Fact
+
+I enjoy designing systems that can handle millions of events—but still spend 30 minutes choosing a variable name.
